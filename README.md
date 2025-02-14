@@ -1,11 +1,7 @@
-# 📈 Inflation Rate Prediction in US
+# 📈 US Inflation Rate Prediction using ARIMA Model
 
 ## 🔍 Overview
-This study will focus on analysis of inflation rate in the US during 2002-2022 to understand how macroeconomic factors affect to the inflation in the US.
-
-The data visualisation using some package such as matplot, seaborn, and plotly, will be use to visually analyse the relationship between inflation rate and macroeconomic features. This will provide insight details for making business and monetary policy decisions.
-
-An ARIMA model has been selected for the machine learning approach.
+This project aims to predict the US inflation rate using the ARIMA (AutoRegressive Integrated Moving Average) model. The dataset consists of historical inflation rate data, and the model is built to forecast future inflation trends.
 
 ---
 ## ✨ Feature definition
